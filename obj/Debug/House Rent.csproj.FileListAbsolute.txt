@@ -1,0 +1,31 @@
+F:\Projects\House Rent\bin\Debug\House Rent.exe.config
+F:\Projects\House Rent\bin\Debug\House Rent.exe
+F:\Projects\House Rent\bin\Debug\House Rent.pdb
+F:\Projects\House Rent\obj\Debug\House Rent.csprojAssemblyReference.cache
+F:\Projects\House Rent\obj\Debug\House_Rent.HouseRent.resources
+F:\Projects\House Rent\obj\Debug\House_Rent.Properties.Resources.resources
+F:\Projects\House Rent\obj\Debug\House Rent.csproj.GenerateResource.cache
+F:\Projects\House Rent\obj\Debug\House Rent.csproj.CoreCompileInputs.cache
+F:\Projects\House Rent\obj\Debug\House Rent.exe
+F:\Projects\House Rent\obj\Debug\House Rent.pdb
+F:\Projects\House Rent\obj\Debug\House_Rent.AddRecord.resources
+F:\Projects\House Rent\obj\Debug\House_Rent.LogIncs.resources
+F:\Projects\House Rent\obj\Debug\House_Rent.Home.resources
+F:\Projects\House Rent\obj\Debug\House_Rent.ClintReg.resources
+F:\Projects\House Rent\bin\Debug\Bunifu_UI_v1.52.dll
+F:\Projects\House Rent\obj\Debug\House Rent.csproj.CopyComplete
+G:\Projects\Visual C#\House Rent v4\House Rent\bin\Debug\House Rent.exe.config
+G:\Projects\Visual C#\House Rent v4\House Rent\bin\Debug\House Rent.exe
+G:\Projects\Visual C#\House Rent v4\House Rent\bin\Debug\House Rent.pdb
+G:\Projects\Visual C#\House Rent v4\House Rent\obj\Debug\House Rent.csprojAssemblyReference.cache
+G:\Projects\Visual C#\House Rent v4\House Rent\obj\Debug\House_Rent.AddRecord.resources
+G:\Projects\Visual C#\House Rent v4\House Rent\obj\Debug\House_Rent.HouseRent.resources
+G:\Projects\Visual C#\House Rent v4\House Rent\obj\Debug\House_Rent.ClintReg.resources
+G:\Projects\Visual C#\House Rent v4\House Rent\obj\Debug\House_Rent.LogIncs.resources
+G:\Projects\Visual C#\House Rent v4\House Rent\obj\Debug\House_Rent.Home.resources
+G:\Projects\Visual C#\House Rent v4\House Rent\obj\Debug\House_Rent.Properties.Resources.resources
+G:\Projects\Visual C#\House Rent v4\House Rent\obj\Debug\House Rent.csproj.GenerateResource.cache
+G:\Projects\Visual C#\House Rent v4\House Rent\obj\Debug\House Rent.csproj.CoreCompileInputs.cache
+G:\Projects\Visual C#\House Rent v4\House Rent\obj\Debug\House Rent.csproj.CopyComplete
+G:\Projects\Visual C#\House Rent v4\House Rent\obj\Debug\House Rent.exe
+G:\Projects\Visual C#\House Rent v4\House Rent\obj\Debug\House Rent.pdb
