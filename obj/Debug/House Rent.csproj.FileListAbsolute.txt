@@ -29,3 +29,18 @@ G:\Projects\Visual C#\House Rent v4\House Rent\obj\Debug\House Rent.csproj.CoreC
 G:\Projects\Visual C#\House Rent v4\House Rent\obj\Debug\House Rent.csproj.CopyComplete
 G:\Projects\Visual C#\House Rent v4\House Rent\obj\Debug\House Rent.exe
 G:\Projects\Visual C#\House Rent v4\House Rent\obj\Debug\House Rent.pdb
+D:\CSharpProjects\house-rent\bin\Debug\House Rent.exe.config
+D:\CSharpProjects\house-rent\bin\Debug\House Rent.exe
+D:\CSharpProjects\house-rent\bin\Debug\House Rent.pdb
+D:\CSharpProjects\house-rent\obj\Debug\House Rent.csprojAssemblyReference.cache
+D:\CSharpProjects\house-rent\obj\Debug\House_Rent.AddRecord.resources
+D:\CSharpProjects\house-rent\obj\Debug\House_Rent.HouseRent.resources
+D:\CSharpProjects\house-rent\obj\Debug\House_Rent.ClintReg.resources
+D:\CSharpProjects\house-rent\obj\Debug\House_Rent.LogIncs.resources
+D:\CSharpProjects\house-rent\obj\Debug\House_Rent.Home.resources
+D:\CSharpProjects\house-rent\obj\Debug\House_Rent.Properties.Resources.resources
+D:\CSharpProjects\house-rent\obj\Debug\House Rent.csproj.GenerateResource.cache
+D:\CSharpProjects\house-rent\obj\Debug\House Rent.csproj.CoreCompileInputs.cache
+D:\CSharpProjects\house-rent\obj\Debug\House Rent.csproj.CopyComplete
+D:\CSharpProjects\house-rent\obj\Debug\House Rent.exe
+D:\CSharpProjects\house-rent\obj\Debug\House Rent.pdb
