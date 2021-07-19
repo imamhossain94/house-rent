@@ -16,6 +16,14 @@ This project was created by me in 2018 for my university project using C# Winfor
     
 </p>
 
+## 💻 Install exe
+
+<ol>
+  <li>Full Package. <a href="https://drive.google.com/file/d/1KjWPpoOpxGrbEU7MuBXg0x0AgqOX5Rhl/view?usp=sharing">Google drive</a></li>
+  <li>Web Installer. <a href="https://drive.google.com/file/d/1ShQ86Ig2ylzwwY4yu1c8EOdhj7YFX1qf/view?usp=sharing">Google drive</a></li>
+  <li>Normal Setup. <a href="https://drive.google.com/file/d/1u_dkdkXqMfZB4wxc7cu3x3IHveZ-T2e5/view?usp=sharing">Google drive</a></li>
+</ol>
+
 
 ## 💻 Installation steps
 
